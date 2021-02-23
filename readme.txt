@@ -118,7 +118,7 @@ Release and roadmap notes are available on the [WooCommerce Developers Blog](htt
 - Dev: Add navigation favorites data store #6275
 - Add: Add navigation intro modal. #6367
 - Fix: Reset Navigation submenu before making Flyout #6396
-- Add: CES survey for adding product categories and tags #6418
+- Add: CES survey for adding product categories, tags, and attributes #6418
 
 == 2.0.0 02/05/2021 ==
 
